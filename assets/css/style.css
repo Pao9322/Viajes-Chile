@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+#nav a{
+    color: white;
+}
+
+#Contacto h2{
+    font-size: 2rem;
+}
+#Mis-trabajos h2{
+    font-size: 2rem;
+}
+#Quienes h2{
+    font-size: 2rem;
+}
+#Quienes h5{
+    font-size: 2rem;
+    text-align: center;
+}
+#mountain{
+    text-align: center;
+    font-size: 1.5rem;
+    
+    
+}
+footer .favicon{
+    text-align: right;
+    font-size: 2rem;
+    margin-right: 5rem;
+}
+
+footer .viajesdechile{
+    text-align: left;
+    margin-left: 5rem;
+    font-size: 1.3rem;
+   
+}
+
+#Quienes .card{
+    color: white;
+    text-align: justify;
+}
+
+#Mis-trabajos .card-text{
+    color:white;
+    text-align: justify;
+}
+
+#Mis-trabajos h5{
+    color: white;
+}
